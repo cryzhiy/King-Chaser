@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 07ecfa5a33d493247be2638fba940d99
+timeCreated: 1540436477
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameMapObject: {instanceID: 0}
+  - UIObject: {instanceID: 0}
+  - playerObject: {fileID: 1219922681743358, guid: 902cbf9b976340f428843c2862dd1f94,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
